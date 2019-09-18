@@ -1,0 +1,19 @@
+head{
+    background-color: red;
+}
+
+#pokemon-name{
+    color: red;
+}
+
+body{
+    vertical-align: middle;
+    text-align: center;
+    background-color: black;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}   
+
+img{
+    text-align: center;
+}
